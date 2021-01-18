@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038484031108",
+    "project_id": "flash-chat-251f7",
+    "storage_bucket": "flash-chat-251f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038484031108:android:c73e582b387346455064d1",
+        "android_client_info": {
+          "package_name": "co.devilAJ.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038484031108-dsap5qip2hgb1s7kclc1rc8scq39734q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmcaJZlIRrcDOKuSWzAGFzShs0Efio1bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038484031108-dsap5qip2hgb1s7kclc1rc8scq39734q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
